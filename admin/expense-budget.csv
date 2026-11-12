@@ -1,0 +1,7 @@
+item,category,planned_usd,spend_usd,owner
+robotics_platform,robotics,120000,0,Engineering
+lab_chemicals,chemistry,35000,0,Research
+ai_compute,ai,95000,0,AI Lab
+sensor_suite,robotics,28000,0,Engineering
+field_wearables,operations,15000,0,Operations
+speculative_modeling,speculative-physics,50000,0,Research

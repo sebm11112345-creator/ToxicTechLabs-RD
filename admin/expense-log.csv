@@ -1,0 +1,4 @@
+date,category,description,amount_usd,approved_by
+2026-01-12,robotics,Prototype motion controller,15500,SHM
+2026-01-14,chemistry,Materials review and assay prep,8200,SHM
+2026-01-22,ai,Inference benchmark expansion,21000,SHM
